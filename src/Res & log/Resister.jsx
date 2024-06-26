@@ -8,7 +8,7 @@ const Resister = () => {
     },[])
     return (
         <div>
-            
+            resister
         </div>
     );
 };
