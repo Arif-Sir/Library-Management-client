@@ -91,7 +91,7 @@ const Resister = () => {
             <div className="hero min-h-screen bg-gray-400 ">
 
                 <div className="card m-3 shrink-0 w-full max-w-sm shadow-2xl bg-white">
-                    <h2 className="text-4xl text-blue-700 text-center font-bold">Please Resister</h2>
+                    <h2 className="text-4xl text-blue-700 text-center font-bold mt-2 pt-2">Please Resister</h2>
                     <form onSubmit={handelResister} className="card-body ">
 
                         <div className="form-control">
