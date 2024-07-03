@@ -1,0 +1,211 @@
+
+[
+    {
+      "image": "https://example.com/image1.jpg",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": 4.5,
+      "details": "https://example.com/details1",
+      "description": "A classic novel set in the 1920s about the enigmatic Jay Gatsby and his love for Daisy Buchanan.",
+      "category": "Fiction"
+    },
+    {
+      "image": "https://example.com/image2.jpg",
+      "name": "1984",
+      "author": "George Orwell",
+      "rating": 4.7,
+      "details": "https://example.com/details2",
+      "description": "A dystopian novel about a totalitarian regime that employs surveillance and manipulation to control its citizens.",
+      "category": "Fiction"
+    },
+    {
+      "image": "https://example.com/image3.jpg",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "rating": 4.8,
+      "details": "https://example.com/details3",
+      "description": "A poignant story about racial injustice in the American South, seen through the eyes of a young girl.",
+      "category": "Fiction"
+    },
+    {
+      "image": "https://example.com/image4.jpg",
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "rating": 4.3,
+      "details": "https://example.com/details4",
+      "description": "A novel about teenage rebellion and angst as experienced by the protagonist, Holden Caulfield.",
+      "category": "Fiction"
+    },
+    {
+      "image": "https://example.com/image5.jpg",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "rating": 4.6,
+      "details": "https://example.com/details5",
+      "description": "A fantasy adventure about Bilbo Baggins and his quest to reclaim a lost kingdom from a dragon.",
+      "category": "Fiction"
+    },
+    {
+      "image": "https://example.com/image6.jpg",
+      "name": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "rating": 4.9,
+      "details": "https://example.com/details6",
+      "description": "An exploration of the nature of the universe, black holes, and time by renowned physicist Stephen Hawking.",
+      "category": "Science"
+    },
+    {
+      "image": "https://example.com/image7.jpg",
+      "name": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "rating": 4.7,
+      "details": "https://example.com/details7",
+      "description": "A revolutionary book on evolution that emphasizes the role of genes in the process of natural selection.",
+      "category": "Science"
+    },
+    {
+      "image": "https://example.com/image8.jpg",
+      "name": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee",
+      "rating": 4.8,
+      "details": "https://example.com/details8",
+      "description": "A comprehensive history of the gene, from its discovery to the modern era of genetic engineering.",
+      "category": "Science"
+    },
+    {
+      "image": "https://example.com/image9.jpg",
+      "name": "Cosmos",
+      "author": "Carl Sagan",
+      "rating": 4.9,
+      "details": "https://example.com/details9",
+      "description": "An awe-inspiring look at the universe and our place within it, written by the beloved astrophysicist Carl Sagan.",
+      "category": "Science"
+    },
+    {
+      "image": "https://example.com/image10.jpg",
+      "name": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "rating": 4.6,
+      "details": "https://example.com/details10",
+      "description": "The true story of Henrietta Lacks and how her cancer cells became one of the most important tools in medicine.",
+      "category": "Science"
+    },
+    {
+      "image": "https://example.com/image11.jpg",
+      "name": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "rating": 4.9,
+      "details": "https://example.com/details11",
+      "description": "A sweeping narrative of human history, from the emergence of Homo sapiens to the present.",
+      "category": "History"
+    },
+    {
+      "image": "https://example.com/image12.jpg",
+      "name": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "rating": 4.7,
+      "details": "https://example.com/details12",
+      "description": "An analysis of how environmental and geographical factors have shaped the course of human history.",
+      "category": "History"
+    },
+    {
+      "image": "https://example.com/image13.jpg",
+      "name": "The Silk Roads: A New History of the World",
+      "author": "Peter Frankopan",
+      "rating": 4.6,
+      "details": "https://example.com/details13",
+      "description": "A fresh perspective on world history, focusing on the importance of trade routes and cultural exchanges.",
+      "category": "History"
+    },
+    {
+      "image": "https://example.com/image14.jpg",
+      "name": "The Wright Brothers",
+      "author": "David McCullough",
+      "rating": 4.8,
+      "details": "https://example.com/details14",
+      "description": "The inspiring story of the Wright brothers and their invention of the first successful airplane.",
+      "category": "History"
+    },
+    {
+      "image": "https://example.com/image15.jpg",
+      "name": "1776",
+      "author": "David McCullough",
+      "rating": 4.7,
+      "details": "https://example.com/details15",
+      "description": "A detailed account of the events surrounding the American Revolution, focusing on the year 1776.",
+      "category": "History"
+    },
+    {
+      "image": "https://example.com/image16.jpg",
+      "name": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "rating": 4.8,
+      "details": "https://example.com/details16",
+      "description": "The definitive biography of Steve Jobs, based on unprecedented access to the Apple co-founder.",
+      "category": "Biography"
+    },
+    {
+      "image": "https://example.com/image17.jpg",
+      "name": "Becoming",
+      "author": "Michelle Obama",
+      "rating": 4.9,
+      "details": "https://example.com/details17",
+      "description": "The memoir of former First Lady Michelle Obama, chronicling her life from childhood to the White House.",
+      "category": "Biography"
+    },
+    {
+      "image": "https://example.com/image18.jpg",
+      "name": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "rating": 4.9,
+      "details": "https://example.com/details18",
+      "description": "The poignant diary of Anne Frank, a Jewish girl hiding from the Nazis during World War II.",
+      "category": "Biography"
+    },
+    {
+      "image": "https://example.com/image19.jpg",
+      "name": "Long Walk to Freedom",
+      "author": "Nelson Mandela",
+      "rating": 4.8,
+      "details": "https://example.com/details19",
+      "description": "The autobiography of Nelson Mandela, detailing his journey from apartheid to becoming South Africa's president.",
+      "category": "Biography"
+    },
+    {
+      "image": "https://example.com/image20.jpg",
+      "name": "Educated",
+      "author": "Tara Westover",
+      "rating": 4.7,
+      "details": "https://example.com/details20",
+      "description": "A memoir about a woman who grows up in a strict and abusive household in rural Idaho but eventually escapes to learn about the wider world through education.",
+      "category": "Biography"
+    },
+    {
+      "image": "https://example.com/image21.jpg",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "rating": 4.9,
+      "details": "https://example.com/details21",
+      "description": "The first book in the Harry Potter series, where young Harry discovers his magical heritage and attends Hogwarts.",
+      "category": "Fantasy"
+    },
+    {
+      "image": "https://example.com/image22.jpg",
+      "name": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "rating": 4.8,
+      "details": "https://example.com/details22",
+      "description": "The story of Kvothe, a magically gifted young man, as he grows up to become a legend.",
+      "category": "Fantasy"
+    },
+    {
+      "image": "https://example.com/image23.jpg",
+      "name": "The Way of Kings",
+      "author": "Brandon",
+      "rating": 4.8,
+      "details": "https://example.com/details22",
+      "description": "The story of Kvothe, a magically gifted young man, as he grows up to become a legend.",
+      "category": "Fantasy"
+    }
+]
+  

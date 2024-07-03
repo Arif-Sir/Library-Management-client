@@ -21,15 +21,15 @@ const Navbar = () => {
     const navlinks = <>
     <li className="text-black text-xl font-semibold"><NavLink to='/'>Home</NavLink></li>
     
-    <li><NavLink to='/allspots'>All Tourist Spots</NavLink></li>
+    <li><NavLink to='/all'>All Books </NavLink></li>
     {/* { user && <> */}
-      <li><NavLink to='/mylist'>My List </NavLink></li>
-      <li className="text-white text-semibold"><NavLink to='/addsport'>Add Spot </NavLink></li>
+      <li><NavLink to='/try'>Trying</NavLink></li>
+      <li className="text-black text-semibold"><NavLink to='/add'>Add Book </NavLink></li>
 
     </>
     return (
       <div className="">
-          <div className="navbar bg-white px-5">
+          <div className="navbar bg-[#F8F9FA] px-5">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -39,7 +39,7 @@ const Navbar = () => {
               {navlinks}
             </ul>
           </div>
-          <a href="/" className="btn btn-ghost text-3xl text-black font-bold">AL</a>
+          <a href="/" className="btn btn-ghost text-3xl text-black font-bold">PATHSHALA</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
